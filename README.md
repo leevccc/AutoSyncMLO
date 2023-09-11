@@ -1,0 +1,2 @@
+# AutoSyncMLO
+一个AutoHotkey的脚本用于自动执行MLO同步操作
